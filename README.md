@@ -1,1 +1,2 @@
 # tinyfilemanager
+## How To Install
